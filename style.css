@@ -1,3 +1,12 @@
+.welcome-header{
+    background-image: url(./assests/strahd.webp);
+    background-repeat: no-repeat;
+    background-size: 1000px 200px;
+    height: 150px;
+    border: 5px solid black;
+    
+}
+
 .head-shot {
     height: 150px;
     width:150px;
@@ -12,4 +21,30 @@
 
 .story-so-far {
     font-family: 'Shadows Into Light', cursive;
+    font-size: 20px; bold;
+}
+
+.write-up {
+    border: px;
+    padding: 10px;
+    background-image: url(./assests/scroll_texture.jpeg);
+    background-repeat: ;
+    background-size: 100%;
+    
+}
+
+#Ezara {
+    position: absolute; left: 200px; top: 210px;
+}
+
+#Fjall{
+    position: absolute; left: 400px; top: 210px;
+}
+
+#Freyina{
+    position:absolute; left: 600px; top: 210px
+}
+
+#Peradox {
+    position: absolute; left: 800px; top: 210px
 }
