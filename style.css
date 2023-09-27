@@ -1,10 +1,10 @@
 .welcome-header{
     background-image: url(./assests/strahd.webp);
     background-repeat: no-repeat;
-    background-size: 1000px 200px;
+    background-size: cover;
     height: 150px;
     width: 100%;
-    border: 5px solid black;
+    border: 5px solid black ;
     
 }
 
